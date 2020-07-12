@@ -1,0 +1,16 @@
+SPA ~ Single Page App
+    
+
+form submit + form validation
+
+firebase account + project
+         integrate
+         authenciation
+
+register:
+        1. get info
+        2. Validate info
+        3. Submit info (firebase) 
+
+login
+
